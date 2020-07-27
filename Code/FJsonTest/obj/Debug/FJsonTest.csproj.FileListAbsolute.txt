@@ -1,0 +1,12 @@
+I:\Tool\OpenSource\FJSON\FJSON\FJsonTest\obj\Debug\FJsonTest.csprojAssemblyReference.cache
+I:\Tool\OpenSource\FJSON\FJSON\FJsonTest\obj\Debug\FJsonTest.Form1.resources
+I:\Tool\OpenSource\FJSON\FJSON\FJsonTest\obj\Debug\FJsonTest.Properties.Resources.resources
+I:\Tool\OpenSource\FJSON\FJSON\FJsonTest\obj\Debug\FJsonTest.csproj.GenerateResource.cache
+I:\Tool\OpenSource\FJSON\FJSON\FJsonTest\obj\Debug\FJsonTest.csproj.CoreCompileInputs.cache
+I:\Tool\OpenSource\FJSON\FJSON\FJsonTest\bin\Debug\FJsonTest.exe
+I:\Tool\OpenSource\FJSON\FJSON\FJsonTest\bin\Debug\FJsonTest.pdb
+I:\Tool\OpenSource\FJSON\FJSON\FJsonTest\bin\Debug\FJSONUtil.dll
+I:\Tool\OpenSource\FJSON\FJSON\FJsonTest\bin\Debug\FJSONUtil.pdb
+I:\Tool\OpenSource\FJSON\FJSON\FJsonTest\obj\Debug\FJsonTest.csproj.CopyComplete
+I:\Tool\OpenSource\FJSON\FJSON\FJsonTest\obj\Debug\FJsonTest.exe
+I:\Tool\OpenSource\FJSON\FJSON\FJsonTest\obj\Debug\FJsonTest.pdb

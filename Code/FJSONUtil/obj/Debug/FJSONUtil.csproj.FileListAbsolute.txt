@@ -1,0 +1,6 @@
+I:\Tool\OpenSource\FJSON\FJSON\FJSONUtil\obj\Debug\FJSONUtil.csproj.CoreCompileInputs.cache
+I:\Tool\OpenSource\FJSON\FJSON\FJSONUtil\bin\Debug\FJSONUtil.dll
+I:\Tool\OpenSource\FJSON\FJSON\FJSONUtil\bin\Debug\FJSONUtil.pdb
+I:\Tool\OpenSource\FJSON\FJSON\FJSONUtil\obj\Debug\FJSONUtil.dll
+I:\Tool\OpenSource\FJSON\FJSON\FJSONUtil\obj\Debug\FJSONUtil.pdb
+I:\Tool\OpenSource\FJSON\FJSON\FJSONUtil\obj\Debug\FJSONUtil.csprojAssemblyReference.cache
